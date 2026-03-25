@@ -35,6 +35,7 @@ Password: admin123
 
 - **GitHub Repository Link:** https://github.com/rakibul98/B13-A05-GitHub-Issues-Tracker
 - **Live Site Link:** https://b13-a05-github-issues-tracker.netlify.app/
+- **linkedIn Link:** https://www.linkedin.com/in/rakibulm98/
 
 ---
 
